@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284354686610",
+    "firebase_url": "https://lixu-42b45.firebaseio.com",
+    "project_id": "lixu-42b45",
+    "storage_bucket": "lixu-42b45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284354686610:android:8550317c7815bd7c",
+        "android_client_info": {
+          "package_name": "android.example.takehomeassignment10_lix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284354686610-5m1622o66ne8dasfp2ldpgq5lntetkf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDijPZ9R4WUzPQNwUES_RehsiEskZo5HVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284354686610-5m1622o66ne8dasfp2ldpgq5lntetkf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
